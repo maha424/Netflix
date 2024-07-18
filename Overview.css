@@ -1,0 +1,317 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family:"NetFlixSans" Medium !important;
+}
+
+.container-fluid {
+    height: 68px;
+}
+
+.navbar-text {
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.li-text {
+    color: #e50914 !important;
+}
+
+.bi-calendar4, .bi-mic, .bi-chevron-right {
+    font-size: 25px;
+} 
+
+.search-icon {
+    border-left: 10px solid #e50914;
+}
+
+.text-color:hover {
+    color: #e50914 !important;
+}
+
+.text-position {
+    padding-top: 100px !important;
+}
+
+.netflix-office {
+    width: 795px;
+    height: 300px !important;
+}
+
+.img-border {
+    height: 300px !important;
+    border-left: 70px solid #e50914; 
+}
+
+.bi-currency-dollar {
+font-size: 50px;
+font-weight: 500;
+}
+
+.Updated-font {
+font-size: 10px;
+font-weight: 500;
+color: gray;
+}
+
+.Investor {
+    padding-top: 100px;
+    padding-left: 160px;
+}
+
+.left-card {
+    width: 550px;
+    height: 500px !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Adjust the shadow to your liking */
+    margin-left: 20px !important;
+}
+
+.right-card {
+    width: 550px;
+    height: 550px !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Adjust the shadow to your liking */
+}
+
+.card-hover1:hover {
+    border-bottom: 5px solid #e50914 !important;
+}
+
+.card-hover2:hover {
+    border-left: 3px solid #e50914;
+    color: #e50914;
+}
+
+.wifi-icon1 {
+    font-size: 30px;
+    color: brown;
+    padding-left: 167px;
+}
+
+.wifi-icon2 {
+    font-size: 30px;
+    color: #ffffff;
+    padding-left: 500px;
+}
+
+.Investor-kit {
+    padding-top: 100px;
+}
+
+.cards-topic {
+    padding-left: 440px !important;
+}
+
+.Fin-snd-card {
+    padding-bottom: 65px !important;
+}
+
+.netflix-img {
+    padding-left: 1100px !important;
+}
+
+.card-position {
+    bottom: 100px !important;
+}
+
+.fin-cls {
+    bottom: 400px !important;
+    padding-left: 420px;
+    font-size: 24px;
+}
+
+.btn-cls1 {
+    bottom: 30px !important;
+    padding-left: 550px;
+}
+
+.btn-cls2 {
+    bottom: 30px !important;
+    padding-left: 550px;
+}
+
+.btn-right {
+    border-color: #e50914 !important;
+    background-color: #e50914;
+}
+
+.Quarter-earining {
+    width: 100%;
+    height: 500px;
+}
+
+.Quarter-text-position {
+    bottom: 390px !important;
+    padding-left: 480px;
+}
+
+.First-Quarter-position {
+    bottom: 310px !important;
+    padding-left: 350px;
+}
+
+.mic-phone {
+    bottom: 150px !important;
+    padding-left: 100px !important;
+}
+
+.file-position {
+    bottom: 150px !important;
+    padding-left: 350px !important;
+}
+
+.excel-position {
+    bottom: 150px !important;
+    padding-left: 650px !important;
+}
+
+.pdf-position {
+    bottom: 150px !important;
+    padding-left: 950px !important;
+}
+
+.reports {
+    width: 100px;
+    height: 100px;
+    /* margin-left: 80px; */
+}
+ 
+.Quick-card {
+    border-right: 10px solid #e50914;
+}
+
+@media only screen and (max-width:1024px) {
+    .text-position {
+        padding-top: 3px !important;
+        padding-left: 10px !important;
+    }
+
+    .img-border {
+        height: 300px !important;
+        border-top: 80px solid #e50914; 
+        border-left: 0 solid black;
+    }
+
+    .border-left {
+        border-left: 10px solid #e50914 !important;
+        font-size: 30px !important;
+        border-color: none !important;
+    }
+
+    .menu-list {
+        color: #ffffff !important;
+    }
+
+    .Investor {
+        padding-top: 10px;
+        padding-left: 0px;
+    }
+
+    .wifi-icon1 {
+        /* font-size: 30px;
+        color: brown; */
+        padding-left: 20px;
+    }
+
+    .left-card {
+        width: 270px;
+        height: 500px !important;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Adjust the shadow to your liking */
+        padding-left: 0 !important;
+    }
+
+    .card1-font {
+        font-size: 16px !important;
+    }
+    
+    .right-card {
+        width: 270px;
+        height: 520px !important;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Adjust the shadow to your liking */
+    }
+
+    .netflix-img {
+        padding-left: 10px !important;
+    }
+
+    .fin-cls {
+        bottom: 420px !important;
+        padding-left: 20px;
+        font-size: 10px !important;
+    }
+
+    .btn-cls1 {
+        top: 970px !important;
+        padding-left: 100px !important;
+    }
+
+    .card-bottom {
+        top: 150px !important;
+        
+    }
+
+    .Quarter-earining {
+        width: 100%;
+        height: 500px;
+    }
+
+    .sm-quarter {
+        margin-top: 580px !important;
+    }
+
+    .Quarter-text-position {
+        bottom: 400px !important;
+        padding-left: 120px;
+    }
+
+    .First-Quarter-position {
+        bottom: 350px !important;
+        padding-left: 80px;
+    }
+
+
+    .mic-phone {
+        bottom: 250px !important;
+        padding-left: 95px !important;
+    }
+
+
+    .file-position {
+        bottom: 200px !important;
+        padding-left: 95px !important;
+    }    
+
+    .excel-position {
+        bottom: 150px !important;
+        padding-left: 95px !important;
+    }
+
+
+    .pdf-position {
+        bottom: 100px !important;
+        padding-left: 95px !important;
+    }
+
+    .btn-cls2 {
+        bottom: 60px !important;
+        padding-left: 80px;
+    }
+
+    .Quick-card {
+        border-bottom: 10px solid #e50914;
+        height: 200px;
+        border-right: 0 solid black;
+    }
+
+    .sm-img {
+        margin-left: 100px !important;
+    }
+
+    .reports-text {
+        padding-left: 60px !important;
+    }
+
+    .reports-text1 {
+        padding-left: 80px !important;
+    }
+
+}
